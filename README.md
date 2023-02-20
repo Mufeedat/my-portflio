@@ -1,3 +1,3 @@
-# my-portflio
+# my-portfolio
 My port-folio
 
